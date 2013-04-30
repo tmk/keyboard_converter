@@ -1,0 +1,260 @@
+# EESchema Netlist Version 1.1 created  13/12/2011 01:12:45
+(
+ ( /4EB8BB66 SM1206POL C1 10u
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4EB8BB67 SM0603_Capa C2 1u
+  ( 1 N-000006 )
+  ( 2 GND )
+ )
+ ( /4EB8BB57 SM0603_Capa C3 0.1u
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4EB8BB59 SM0603_Capa C4 22p
+  ( 1 N-000008 )
+  ( 2 GND )
+ )
+ ( /4EB8BB58 SM0603_Capa C5 22p
+  ( 1 N-000007 )
+  ( 2 GND )
+ )
+ ( /4EB8BB4C SM0603_Capa C6 0.1u
+  ( 1 /~RESET )
+  ( 2 GND )
+ )
+ ( /4EB8BB65 SM0603_Capa C7 0.1u
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4EB8BB64 SM0603_Capa C8 0.1u
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4EB8BB63 SM0603_Capa C9 0.1u
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4ECD2184 USB_microB J1 USB_B
+  ( 1 +5V )
+  ( 2 /D- )
+  ( 3 /D+ )
+  ( 5 GND )
+ )
+ ( /4EDE1D89 MINI_DIN_6 K1 PS2_FEMALE
+  ( 1 /PC7 )
+  ( 3 GND )
+  ( 4 +5V )
+  ( 5 /PC6 )
+ )
+ ( /4EDE1D93 MINI_DIN_4 K2 ADB_FEMALE
+  ( 1 /PF6 )
+  ( 2 /PF7 )
+  ( 3 +5V )
+  ( 4 GND )
+ )
+ ( /4EE62545 PIN_ARRAY_3X1 K3 CONN_3
+  ( 1 /PB5 )
+  ( 2 /PB6 )
+  ( 3 /PB4 )
+ )
+ ( /4EE6254A PIN_ARRAY_5x1 P1 CONN_5
+  ( 1 /PB0 )
+  ( 2 /PB1 )
+  ( 3 /PB2 )
+  ( 4 /PB3 )
+  ( 5 /PB7 )
+ )
+ ( /4ED518FD PIN_ARRAY_8x1 P2 CONN_8
+  ( 1 /PD0 )
+  ( 2 /PD1 )
+  ( 3 /PD2 )
+  ( 4 /PD3 )
+  ( 5 /PD4 )
+  ( 6 /PD5 )
+  ( 7 /PD6 )
+  ( 8 /PD7 )
+ )
+ ( /4ED6E894 PIN_ARRAY_8x1 P3 CONN_8
+  ( 1 /PC6 )
+  ( 2 /PC7 )
+  ( 3 /PF7 )
+  ( 4 /PF6 )
+  ( 5 /PF5 )
+  ( 6 /PF4 )
+  ( 7 /PF1 )
+  ( 8 /PF0 )
+ )
+ ( /4ED6DC35 PIN_1sq P4 CONN_1
+  ( 1 +5V )
+ )
+ ( /4ED6DC3E PIN_1 P5 CONN_1
+  ( 1 GND )
+ )
+ ( /4ED6DC48 PIN_1 P6 CONN_1
+  ( 1 /~RESET )
+ )
+ ( /4ED6DC4B PIN_1 P7 CONN_1
+  ( 1 GND )
+ )
+ ( /4ED6E8EC PIN_1 P8 CONN_1
+  ( 1 /PE6 )
+ )
+ ( /4ED6E8F0 PIN_1 P9 CONN_1
+  ( 1 /AREF )
+ )
+ ( /4ED72A36 PIN_ARRAY_4x1 P10 CONN_4
+  ( 1 +5V )
+  ( 2 /D- )
+  ( 3 /D+ )
+  ( 4 GND )
+ )
+ ( /4EB8BB62 SM0603_Resistor R1 22
+  ( 1 N-000024 )
+  ( 2 /D- )
+ )
+ ( /4EB8BB61 SM0603_Resistor R2 22
+  ( 1 N-000023 )
+  ( 2 /D+ )
+ )
+ ( /4EB8BB4D SM0603_Resistor R3 10K
+  ( 1 +5V )
+  ( 2 /~RESET )
+ )
+ ( /4EB8BB60 SM0603_Resistor R4 1k
+  ( 1 GND )
+  ( 2 N-000010 )
+ )
+ ( /4EB8BB5F SW_TACT_AKZ SW1 SW_PUSH
+  ( 1 GND )
+  ( 2 /~RESET )
+ )
+ ( /4EB8BB68 TQFP44 U1 ATMEGA32U4
+  ( 1 /PE6 )
+  ( 2 +5V )
+  ( 3 N-000024 )
+  ( 4 N-000023 )
+  ( 5 GND )
+  ( 6 N-000006 )
+  ( 7 +5V )
+  ( 8 /PB0 )
+  ( 9 /PB1 )
+  ( 10 /PB2 )
+  ( 11 /PB3 )
+  ( 12 /PB7 )
+  ( 13 /~RESET )
+  ( 14 +5V )
+  ( 15 GND )
+  ( 16 N-000008 )
+  ( 17 N-000007 )
+  ( 18 /PD0 )
+  ( 19 /PD1 )
+  ( 20 /PD2 )
+  ( 21 /PD3 )
+  ( 22 /PD5 )
+  ( 23 GND )
+  ( 24 +5V )
+  ( 25 /PD4 )
+  ( 26 /PD6 )
+  ( 27 /PD7 )
+  ( 28 /PB4 )
+  ( 29 /PB5 )
+  ( 30 /PB6 )
+  ( 31 /PC6 )
+  ( 32 /PC7 )
+  ( 33 N-000010 )
+  ( 34 +5V )
+  ( 35 GND )
+  ( 36 /PF7 )
+  ( 37 /PF6 )
+  ( 38 /PF5 )
+  ( 39 /PF4 )
+  ( 40 /PF1 )
+  ( 41 /PF0 )
+  ( 42 /AREF )
+  ( 43 GND )
+  ( 44 +5V )
+ )
+ ( /4EB8BB56 FA-238 X1 16MHz
+  ( 1 N-000008 )
+  ( 2 N-000007 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
