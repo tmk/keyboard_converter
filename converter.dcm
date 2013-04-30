@@ -1,6 +1,6 @@
-EESchema-DOCLIB  Version 2.0  Date: 01/12/2011 10:52:06
+EESchema-DOCLIB  Version 2.0  Date: 2013年04月30日 12時03分56秒
 #
-$CMP USB_MINIB
+$CMP USB_miniB
 D USB miniB
 K USB miniB
 $ENDCMP
