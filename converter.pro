@@ -1,4 +1,4 @@
-update=28/11/2011 00:38:12
+update=2013年04月30日 12時21分30秒
 last_client=pcbnew
 [eeschema]
 version=1
@@ -70,21 +70,22 @@ NetIExt=net
 EquName1=devcms
 [pcbnew]
 version=1
-PadDrlX=350
-PadDimH=600
-PadDimV=600
-BoardThickness=630
-TxtPcbV=800
-TxtPcbH=600
-TxtModV=600
-TxtModH=600
-TxtModW=120
-VEgarde=100
-DrawLar=150
-EdgeLar=150
-TxtLar=120
-MSegLar=150
 LastNetListRead=converter.net
+UseCmpFile=1
+PadDrill=0.889
+PadSizeH=1.524
+PadSizeV=1.524
+PcbTextSizeV=2.032
+PcbTextSizeH=1.524
+PcbTextThickness=0.3048
+ModuleTextSizeV=1.524
+ModuleTextSizeH=1.524
+ModuleTextSizeThickness=0.3048
+SolderMaskClearance=0.254
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.381
+BoardOutlineThickness=0.381
+ModuleOutlineThickness=0.381
 [pcbnew/libraries]
 LibDir=../../KiCAD
 LibName1=sockets
@@ -98,3 +99,4 @@ LibName8=valves
 LibName9=led
 LibName10=dip_sockets
 LibName11=keyboard
+LibName12=converter
