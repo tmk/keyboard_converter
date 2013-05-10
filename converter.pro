@@ -1,5 +1,5 @@
-update=2013年04月30日 12時21分30秒
-last_client=pcbnew
+update=2013年05月08日 15時03分38秒
+last_client=cvpcb
 [eeschema]
 version=1
 LibDir=
@@ -63,11 +63,6 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=converter
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=converter.net
@@ -87,16 +82,20 @@ DrawSegmentWidth=0.381
 BoardOutlineThickness=0.381
 ModuleOutlineThickness=0.381
 [pcbnew/libraries]
-LibDir=../../KiCAD
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=libcms
-LibName7=display
-LibName8=valves
-LibName9=led
-LibName10=dip_sockets
-LibName11=keyboard
-LibName12=converter
+LibName1=converter
+LibName2=sockets
+LibName3=connect
+LibName4=discret
+LibName5=pin_array
+LibName6=divers
+LibName7=libcms
+LibName8=display
+LibName9=valves
+LibName10=led
+LibName11=dip_sockets
+LibDir=../../KiCAD;../converter
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms

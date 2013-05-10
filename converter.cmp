@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-nov-02)-testing date = 2013年05月01日 23時44分29秒
+Cmp-Mod V01 Created by PcbNew date = 2013年05月08日 15時08分00秒
 
 BeginCmp
 TimeStamp = /4EB8BB66;
@@ -36,29 +36,22 @@ IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EB8BB4C;
+TimeStamp = /4EB8BB65;
 Reference = C6;
 ValeurCmp = 0.1u;
 IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EB8BB65;
+TimeStamp = /4EB8BB64;
 Reference = C7;
 ValeurCmp = 0.1u;
 IdModule  = SM0603_Capa;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EB8BB64;
-Reference = C8;
-ValeurCmp = 0.1u;
-IdModule  = SM0603_Capa;
-EndCmp
-
-BeginCmp
 TimeStamp = /4EB8BB63;
-Reference = C9;
+Reference = C8;
 ValeurCmp = 0.1u;
 IdModule  = SM0603_Capa;
 EndCmp
@@ -71,10 +64,17 @@ IdModule  = MINI_DIN_8;
 EndCmp
 
 BeginCmp
+TimeStamp = /51863503;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /4ECD2184;
 Reference = J1;
 ValeurCmp = USB_B;
-IdModule  = USB_microB;
+IdModule  = USB_miniB;
 EndCmp
 
 BeginCmp
@@ -386,42 +386,42 @@ IdModule  = SM0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EB8BB4D;
-Reference = R3;
-ValeurCmp = 10K;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
 TimeStamp = /4EB8BB60;
-Reference = R4;
+Reference = R3;
 ValeurCmp = 1k;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /517F6E00;
-Reference = R5;
+Reference = R4;
 ValeurCmp = 1K;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /517F6DE2;
-Reference = R6;
+Reference = R5;
 ValeurCmp = 1K;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /517F6DF4;
-Reference = R7;
+Reference = R6;
 ValeurCmp = 1K;
 IdModule  = SM0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /517F6DFA;
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51863512;
 Reference = R8;
 ValeurCmp = 1K;
 IdModule  = SM0603;
@@ -431,7 +431,7 @@ BeginCmp
 TimeStamp = /4EB8BB5F;
 Reference = SW1;
 ValeurCmp = SW_PUSH;
-IdModule  = SW_TACT_AKZ;
+IdModule  = SW_ALPS_SKSG;
 EndCmp
 
 BeginCmp
