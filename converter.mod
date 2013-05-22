@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  2013年05月09日 12時41分22秒
+PCBNEW-LibModule-V1  22/05/2013 12:15:48
 # encoding utf-8
 Units mm
 $INDEX
@@ -465,12 +465,6 @@ At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
-$SHAPE3D
-Na "pin_array/pins_array_8x2.wrl"
-Sc 1 1 1
-Of 0 0 0
-Ro 0 0 0
-$EndSHAPE3D
 $EndMODULE PIN_1
 $MODULE SW_ALPS_SKSG
 Po 0 0 0 15 51869F89 00000000 ~~

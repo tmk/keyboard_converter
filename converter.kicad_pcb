@@ -221,11 +221,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 1 +5V)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module SW_ALPS_SKSG (layer Front) (tedit 51885F1F) (tstamp 518BA692)
@@ -392,11 +387,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 39 GND)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885709) (tstamp 4EDD5CA5)
@@ -413,11 +403,6 @@
     (pad 1 thru_hole circle (at 0 0 180) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 4 /D-)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -436,11 +421,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 3 /D+)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885709) (tstamp 4EDD5CA2)
@@ -457,11 +437,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 10 /DIN6)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -567,11 +542,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 23 /PD0)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885A9E) (tstamp 51812C51)
@@ -588,11 +558,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 17 /PB4)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -611,11 +576,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 19 /PB6)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885A5C) (tstamp 51812C47)
@@ -632,11 +592,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 18 /PB5)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -655,11 +610,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 20 /PB7)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885AD3) (tstamp 51812C3D)
@@ -676,11 +626,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 16 /PB3)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -699,11 +644,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 15 /PB2)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885AF4) (tstamp 51812C33)
@@ -720,11 +660,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 14 /PB1)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -743,11 +678,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 38 /~RESET)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885709) (tstamp 51812C29)
@@ -764,11 +694,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 12 /DIN8)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -787,11 +712,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 11 /DIN7)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885958) (tstamp 51885A3D)
@@ -808,11 +728,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 31 /PE6)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -831,11 +746,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 2 /AREF)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51893585) (tstamp 51812C15)
@@ -852,11 +762,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 39 GND)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -875,11 +780,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 1 +5V)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885709) (tstamp 51812C0B)
@@ -896,11 +796,6 @@
     (pad 1 thru_hole circle (at 0 0 180) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 39 GND)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -919,11 +814,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 13 /PB0)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 518859F0) (tstamp 51812C01)
@@ -940,11 +830,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 32 /PF0)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -963,11 +848,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 33 /PF1)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 518859DC) (tstamp 51812BF7)
@@ -984,11 +864,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 34 /PF4)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1007,11 +882,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 35 /PF5)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885763) (tstamp 51812BED)
@@ -1028,11 +898,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 24 /PD1)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1051,11 +916,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 37 /PF7)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 518859B1) (tstamp 51812BE3)
@@ -1072,11 +932,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 22 /PC7)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1095,11 +950,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 21 /PC6)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885775) (tstamp 51812BD9)
@@ -1116,11 +966,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 30 /PD7)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1139,11 +984,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 29 /PD6)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 5188576F) (tstamp 51812BCF)
@@ -1160,11 +1000,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 28 /PD5)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1183,11 +1018,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 27 /PD4)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885768) (tstamp 51812BC5)
@@ -1204,11 +1034,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 26 /PD3)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1227,11 +1052,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 25 /PD2)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 5188599F) (tstamp 51812BBB)
@@ -1248,11 +1068,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 36 /PF6)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1387,11 +1202,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 5 /DIN1)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885709) (tstamp 518624CA)
@@ -1408,11 +1218,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 6 /DIN2)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1431,11 +1236,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 7 /DIN3)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885709) (tstamp 4EDD5C9A)
@@ -1453,11 +1253,6 @@
       (layers *.Cu *.Mask F.SilkS)
       (net 8 /DIN4)
     )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (module PIN_1 (layer Front) (tedit 51885709) (tstamp 4EE0CBF4)
@@ -1474,11 +1269,6 @@
     (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 9 /DIN5)
-    )
-    (model pin_array/pins_array_8x2.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
