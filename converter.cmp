@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-18 BZR 4754)-product date = Sun 23 Mar 2014 12:21:30 JST
+Cmp-Mod V01 Created by CvPcb (2014-03-18 BZR 4754)-product date = Sun 23 Mar 2014 23:29:31 JST
 
 BeginCmp
 TimeStamp = /4EB8BB66;
@@ -53,14 +53,14 @@ BeginCmp
 TimeStamp = /51863503;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = 000NewKeyboard_parts:LED_2012_HSOL;
+IdModule  = 000NewKeyboard_parts:LED_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /532D9CEB;
 Reference = J1;
 ValeurCmp = USB_mini_micro_B;
-IdModule  = 000NewKeyboard_parts:USB_miniB_hirose_new;
+IdModule  = 000NewKeyboard_parts:USB_microB;
 EndCmp
 
 BeginCmp
@@ -393,7 +393,7 @@ IdModule  = 000NewKeyboard_parts:QFP32;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EB8BB56;
+TimeStamp = /532E55A0;
 Reference = X1;
 ValeurCmp = 16MHz;
 IdModule  = 000NewKeyboard_parts:FA-238;

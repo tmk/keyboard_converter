@@ -1,4 +1,4 @@
-update=Sun 23 Mar 2014 12:29:43 JST
+update=Mon 24 Mar 2014 04:59:33 JST
 last_client=eeschema
 [cvpcb]
 version=1
@@ -81,6 +81,3 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=atmega32u2
-LibName34=solder_jumper
-LibName35=mini_din_8p_jack
