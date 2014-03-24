@@ -8,3 +8,4 @@ SW:             Alps SKRP
 Capacitors:     10u, 1u, 0.1u*2, 22p*2(1608)
 Resistors:      22*2, 1K*7(1608)
 MinDIN:         4P(ADB), 5P(NEXT), 6P(PS/2), 7P(X68K), 8P(SUN/PC98)
+                TE Connectivity and MARUSHIN connectors will fit.
