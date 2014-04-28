@@ -7,16 +7,19 @@ This converts pre-modern keyboard protocol into modern USB using [TMK Keyboard F
 
 PCB rev1
 ========
-[Rev1](Rev1.md) has MiniDIN and IO pinouts for other interface. With wire jumpers it can support  many protocols.
+[Rev1](Rev1.md) has lands for MiniDIN and IO pads for other interface than MiniDIN. With wire jumpers it can support many protocols.
+It uses Atmel AVR ATmega32U4.
+
 
 ![Rev1 PCB](http://i.imgur.com/6MVPreKm.jpg)
 
 
 PCB rev2
 ========
-[Rev2](Rev2.md) supports only protocols which uses MiniDIN connector and can be configured with solder jumpers on bottom of the board.
+[Rev2](Rev2.md) is smaller and supports only protocols which uses MiniDIN connector and can be configured with solder jumpers on bottom of the board.
+It uses Atmel AVR ATmega32U2.
 
-![Rev2 PCB](http://i.imgur.com/6MVPreKm.jpg)
+![Rev2 PCB](http://i.imgur.com/NPPRN6Lm.jpg)
 
 
 Supported Protocols
