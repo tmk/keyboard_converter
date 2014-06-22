@@ -1,39 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:keyboard_parts
 LIBS:converter-cache
-LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:special
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:atmega32u2
-LIBS:solder_jumper
-LIBS:mini_din_8p_jack
 LIBS:converter-cache
 EELAYER 24 0
 EELAYER END
@@ -1046,6 +1013,21 @@ F 3 "" H 725 7675 60  0000 C CNN
 	1    725  7675
 	1    0    0    -1  
 $EndComp
+NoConn ~ 2100 2175
+NoConn ~ 2100 2575
+NoConn ~ 2100 2675
+NoConn ~ 4250 2675
+$Comp
+L CRYSTAL X1
+U 1 1 532E55A0
+P 1050 1625
+F 0 "X1" H 1050 1775 60  0000 C CNN
+F 1 "16MHz" H 1050 1475 60  0000 C CNN
+F 2 "" H 1050 1625 60  0000 C CNN
+F 3 "" H 1050 1625 60  0000 C CNN
+	1    1050 1625
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	2100 2675 1850 2675
 Wire Wire Line
@@ -1455,20 +1437,26 @@ Wire Wire Line
 	5750 1825 5750 1675
 Connection ~ 5750 1675
 Connection ~ 6150 1675
-Connection ~ 6150 1775
 Wire Wire Line
 	725  7325 725  7375
 Wire Wire Line
 	900  5050 900  4100
 Wire Notes Line
 	4200 6600 4200 7750
-NoConn ~ 2100 2175
-NoConn ~ 2100 2575
-NoConn ~ 2100 2675
-NoConn ~ 4250 2675
+Wire Wire Line
+	725  7625 725  7675
+Wire Notes Line
+	3150 6325 3150 7750
+Wire Notes Line
+	3225 6600 4200 6600
+Wire Wire Line
+	5900 1775 5750 1775
+Connection ~ 5750 1775
+Wire Wire Line
+	1050 1825 1050 1925
 $Comp
 L SOLDER_JUMPER SJ99
-U 1 1 532E48D4
+U 1 1 53A52D85
 P 675 7475
 F 0 "SJ99" H 675 7425 60  0000 C CNN
 F 1 "SOLDER_JUMPER" H 725 7625 60  0001 C CNN
@@ -1477,15 +1465,9 @@ F 3 "" H 725 7475 60  0000 C CNN
 	1    675  7475
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	725  7625 725  7675
-Wire Notes Line
-	3150 6325 3150 7750
-Wire Notes Line
-	3225 6600 4200 6600
 $Comp
 L SOLDER_JUMPER SJ98
-U 1 1 532E530F
+U 1 1 53A52524
 P 6000 1825
 F 0 "SJ98" H 6000 1775 60  0000 C CNN
 F 1 "SOLDER_JUMPER" H 6050 1975 60  0001 C CNN
@@ -1494,20 +1476,4 @@ F 3 "" H 6050 1825 60  0000 C CNN
 	1    6000 1825
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5900 1775 5750 1775
-Connection ~ 5750 1775
-$Comp
-L CRYSTAL X1
-U 1 1 532E55A0
-P 1050 1625
-F 0 "X1" H 1050 1775 60  0000 C CNN
-F 1 "16MHz" H 1050 1475 60  0000 C CNN
-F 2 "" H 1050 1625 60  0000 C CNN
-F 3 "" H 1050 1625 60  0000 C CNN
-	1    1050 1625
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1050 1825 1050 1925
 $EndSCHEMATC
