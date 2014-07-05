@@ -22,9 +22,16 @@ It uses Atmel AVR ATmega32U2.
 ![Rev2 PCB](http://i.imgur.com/NPPRN6Lm.jpg)
 
 
+PCB rev2.1
+==========
+Fixed misaligned pins of Mini DIN connector, clearance of solder mask and silk prints.
+
+![Rev2.1 PCB](http://i.imgur.com/Uu32KQNm.jpg)
+
+
 Supported Protocols
 ===================
-See [this](https://github.com/tmk/tmk_keyboard#converter).
+See [this](https://github.com/tmk/tmk_keyboard#converter) for supported protocols.
 
 ## PS/2(ScanCode Set 2)
 MiniDIN 6P

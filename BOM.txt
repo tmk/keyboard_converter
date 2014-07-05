@@ -5,7 +5,7 @@ MCU:            ATMega32U2-AU  TQFP
 Xtal:           16MHz(FA-238)
 LED:            (2012)
 SW:             Alps SKRP Push Switch
-Capacitors:     10u, 1u, 0.1u*2, 22p*2(1608)
+Capacitors:     10u(or 4.7u), 1u, 0.1u*2, 22p*2(1608)
 Resistors:      22*2, 1K*7(1608)
 MinDIN:         4P(ADB), 5P(NEXT), 6P(PS/2), 7P(X68K), 8P(SUN/PC98)
                 TE Connectivity and MARUSHIN connectors will fit.
