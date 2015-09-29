@@ -3,7 +3,7 @@ BOM of TMK Converter Rev.2
 J1:             USB Micro-B(Hirose ZX62R-B-5P)
 MCU:            ATMega32U2-AU  TQFP
 Xtal:           16MHz(FA-238)
-LED:            (2012)
+LED:            3020 ROHM SML-012WT
 SW:             Alps SKRP Push Switch
 Capacitors:     10u(or 4.7u), 1u, 0.1u*2, 22p*2(1608)
 Resistors:      22*2, 1K*7(1608)
