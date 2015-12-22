@@ -15,7 +15,8 @@
   (page A4)
   (title_block
     (title "Keyboard Protocol Converter")
-    (rev 1)
+    (date 2015/12)
+    (rev 2.3)
     (company TMK)
   )
 
@@ -65,8 +66,8 @@
     (mod_text_width 0.1524)
     (pad_size 1.6 1.9)
     (pad_drill 0)
-    (pad_to_mask_clearance 0.2)
-    (solder_mask_min_width 0.2)
+    (pad_to_mask_clearance 0.075)
+    (solder_mask_min_width 0.15)
     (pad_to_paste_clearance -0.08)
     (aux_axis_origin 100 100)
     (visible_elements 7FFF7F7F)
@@ -94,7 +95,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory plot/rev2_2/))
+      (outputdirectory plot/rev2_3/))
   )
 
   (net 0 "")
@@ -326,7 +327,7 @@
       (net 30 /~RESET))
   )
 
-  (module 000NewKeyboard_parts:C_1608 (layer Front) (tedit 53A6D563) (tstamp 532BA0C3)
+  (module 000NewKeyboard_parts:C_1608 (layer Front) (tedit 5678DEC4) (tstamp 532BA0C3)
     (at 119.35 131.155 270)
     (descr "SMT, 1608, 0603")
     (tags "SMT, 1608, 0603")
@@ -334,7 +335,7 @@
     (fp_text reference C1 (at 0 -1.45 270) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
-    (fp_text value 10u (at 2.395 0 360) (layer F.SilkS)
+    (fp_text value 4.7u (at 2.395 0 360) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
     (fp_line (start -1.65 -0.8) (end 1.65 -0.8) (layer F.SilkS) (width 0.2))
@@ -1473,7 +1474,7 @@
       (net 31 GND))
   )
 
-  (module 000NewKeyboard_parts:C_1608 (layer Front) (tedit 53A6D532) (tstamp 532BA082)
+  (module 000NewKeyboard_parts:C_1608 (layer Front) (tedit 5678DEBF) (tstamp 532BA082)
     (at 122.375 122.6 180)
     (descr "SMT, 1608, 0603")
     (tags "SMT, 1608, 0603")
@@ -1481,7 +1482,7 @@
     (fp_text reference C6 (at 0 -1.45 180) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
-    (fp_text value 22p (at -2.375 0.05 270) (layer F.SilkS)
+    (fp_text value 10p (at -2.375 0.05 270) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
     (fp_line (start -1.65 -0.8) (end 1.65 -0.8) (layer F.SilkS) (width 0.2))
@@ -1499,7 +1500,7 @@
     )
   )
 
-  (module 000NewKeyboard_parts:C_1608 (layer Front) (tedit 53A6D546) (tstamp 532BA08F)
+  (module 000NewKeyboard_parts:C_1608 (layer Front) (tedit 5678DEBB) (tstamp 532BA08F)
     (at 122.375 129.405)
     (descr "SMT, 1608, 0603")
     (tags "SMT, 1608, 0603")
@@ -1507,7 +1508,7 @@
     (fp_text reference C5 (at 0 -1.45) (layer F.SilkS) hide
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
-    (fp_text value 22p (at 2.375 -0.005 90) (layer F.SilkS)
+    (fp_text value 10p (at 2.375 -0.005 90) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
     (fp_line (start -1.65 -0.8) (end 1.65 -0.8) (layer F.SilkS) (width 0.2))
@@ -1739,7 +1740,7 @@
       (net 35 "Net-(D1-Pad2)"))
   )
 
-  (gr_text "TMK Rev.2.2" (at 101.775 119.625 90) (layer F.SilkS)
+  (gr_text "TMK Rev.2.3" (at 101.775 119.625 90) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (gr_text 5 (at 117.55 105.05) (layer F.SilkS)
