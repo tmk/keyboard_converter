@@ -1,4 +1,4 @@
-update=Fri 20 Jun 2014 16:52:27 JST
+update=Sun 03 Jul 2016 03:10:51 PM JST
 last_client=kicad
 [cvpcb]
 version=1
@@ -39,15 +39,8 @@ LibName10=led
 LibName11=dip_sockets
 [eeschema]
 version=1
-PageLayoutDescrFile=
-SubpartIdSeparator=0
-SubpartFirstId=65
-LibDir=../converter
-NetFmtName=PcbnewAdvanced
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
+LibDir=../converter;../library
 [eeschema/libraries]
 LibName1=keyboard_parts
 LibName2=converter-cache
+LibName3=/home/noname/Google Drive/KiCAD/library/keyboard_parts

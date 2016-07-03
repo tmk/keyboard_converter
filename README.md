@@ -5,10 +5,14 @@ This converts pre-modern keyboard protocols into modern USB using [TMK Keyboard 
 [tmk_keyboard]: https://github.com/tmk/tmk_keyboard
 
 
+You can buy assembled converter here. https://geekhack.org/index.php?topic=72052.0
+
+
 
 Updates
 -------
-2015/09/29    Rev.2.2 Changed LED footprint
+2016/07/03  Rev 2.4 Changed foot print of USB microB and Xtal
+2015/09/29  Rev 2.2 Changed LED footprint
 
 
 Supported Protocols
